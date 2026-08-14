@@ -1,5 +1,5 @@
 
-from behave import given, when, then
+from behave import given, when, then # type: ignore
 from pages.login_page import LoginPage
 import time
 
